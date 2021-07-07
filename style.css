@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#scontrino{
+    width: 384px;
+}
+
+img{
+    max-width: 350px;
+}
